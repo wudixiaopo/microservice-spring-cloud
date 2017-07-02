@@ -1,6 +1,6 @@
 spring:
   application:
-    name: microservice-consumer-movie-ribbon
+    name: microservice-consumer-movie-ribbon-properties-customizing
 server:
   port: 8010
 eureka:
